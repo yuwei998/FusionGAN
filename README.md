@@ -1,0 +1,2 @@
+# FusionGAN
+GAN applications
